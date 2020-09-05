@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'panbolapp-python'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_62e3aadefe0e4eb0a3c73933162e79ad }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f1155ba39af042f68478e05ff7c816e5 }}
